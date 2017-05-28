@@ -1,0 +1,1 @@
+﻿MyService.exe install -servicename “Mediroot_File_AutoCopy” 
